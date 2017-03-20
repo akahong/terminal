@@ -37,7 +37,11 @@ pwd 查看当前目录
 
 history |grep 关键字 查看历史纪录
 
-find命令:
+find命令（查询效率低）:find 路径名
+
+ls | grep 搜索词
+
+locate 搜索词  （模糊查询）
 
 
 
