@@ -1,3 +1,5 @@
+# linux
+
 cp 复制
 
 cp /Users/feidong/Documents/program/*  .
@@ -43,6 +45,6 @@ ls | grep 搜索词
 
 locate 搜索词  （模糊查询）
 
+mikdir:建目录
 
-
-
+touch:建文件
